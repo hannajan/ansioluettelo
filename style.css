@@ -215,8 +215,20 @@ section:last-child {
     font-family: 'freemono', FreeMono, monospace;
   }
 
+  .sectionFinal {
+    position: relative;
+    left: -40px;
+    width: 112%;
+    max-width: 800px;
+	background: #ededed;
+  }
+
   #tassu {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  #tassuKuva {
+    border-top: 2px solid #AB5B8C;
   }
