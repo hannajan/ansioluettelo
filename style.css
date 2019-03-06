@@ -213,3 +213,9 @@ section:last-child {
   #viesti {
     font-family: 'freemono', FreeMono, monospace;
   }
+
+  #tassu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
